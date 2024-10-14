@@ -1,13 +1,14 @@
 package rendering
 
 import (
-	"go.kyoto.codes/v3/htmx"
 	"html/template"
 	"strings"
 
-	"go.kyoto.codes/v3/component"
-	"go.kyoto.codes/zen/v3/errorsx"
-	"go.kyoto.codes/zen/v3/mapx"
+	"github.com/yznts/kyoto/v3/htmx"
+
+	"github.com/yznts/kyoto/v3/component"
+	"github.com/yznts/zen/v3/errorsx"
+	"github.com/yznts/zen/v3/mapx"
 )
 
 // FuncMap holds a library predefined template functions.

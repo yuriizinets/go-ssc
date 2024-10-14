@@ -5,7 +5,7 @@ import (
 	"html/template"
 	"io"
 
-	"go.kyoto.codes/v3/component"
+	"github.com/yznts/kyoto/v3/component"
 )
 
 // Global template configuration defaults.

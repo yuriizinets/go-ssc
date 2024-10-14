@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"html/template"
 
-	"go.kyoto.codes/v3/component"
+	"github.com/yznts/kyoto/v3/component"
 )
 
 // FuncMap holds a library predefined template functions.

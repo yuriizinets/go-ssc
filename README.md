@@ -10,7 +10,7 @@
 </p>
 
 ```go
-import "go.kyoto.codes/v3"
+import "github.com/yznts/kyoto/v3"
 ```
 
 Kyoto is a library for creating fast, server side frontend avoiding vanilla templating downsides.

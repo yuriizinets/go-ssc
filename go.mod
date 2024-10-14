@@ -1,5 +1,5 @@
-module go.kyoto.codes/v3
+module github.com/yznts/kyoto/v3
 
 go 1.20
 
-require go.kyoto.codes/zen/v3 v3.0.0
+require github.com/yznts/zen/v3 v3.2.1

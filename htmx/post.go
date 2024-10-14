@@ -1,6 +1,6 @@
 package htmx
 
-import "go.kyoto.codes/v3/component"
+import "github.com/yznts/kyoto/v3/component"
 
 // Post is a helper function that simplifies the handling of stateful htmx POST requests.
 func Post(ctx *component.Context, state component.State, handler func()) {

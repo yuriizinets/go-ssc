@@ -1,2 +1,2 @@
-go.kyoto.codes/zen/v3 v3.0.0 h1:USERmDZJlJYrMnTK/2e8b0JCa5X9AXCC4iULwD/+SB4=
-go.kyoto.codes/zen/v3 v3.0.0/go.mod h1:mL1cTOqQ9EgZ1QeItYltjO4MPQakLXz/Xeu+dd/LO1g=
+github.com/yznts/zen/v3 v3.2.1 h1:kMtN/B3DwnsKNExTNVcqv3cbFr5IWcqbEOpaIsiAaXg=
+github.com/yznts/zen/v3 v3.2.1/go.mod h1:iXXQhyljuxrlcl13iFSxsGNGZISkUdgQhPdVj5UNRXU=

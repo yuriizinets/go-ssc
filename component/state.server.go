@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"go.kyoto.codes/zen/v3/errorsx"
-	"go.kyoto.codes/zen/v3/logic"
+	"github.com/yznts/zen/v3/errorsx"
+	"github.com/yznts/zen/v3/logic"
 )
 
 // Server is a default server component state implementation.
